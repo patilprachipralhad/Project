@@ -1,0 +1,11 @@
+flask
+pandas
+requests
+beautifulsoup4
+torch==2.2.0
+torchtext==0.16.2
+spacy
+transformers==4.30.0
+scikit-learn
+Flask==2.0.3
+nltk==3.8.1
